@@ -1,0 +1,3 @@
+[submodule "subreps/subrep1"]
+	path = subreps/subrep1
+	url = https://github.com/Phantomaxxx/subrep1.git
